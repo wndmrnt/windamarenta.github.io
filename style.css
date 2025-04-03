@@ -48,14 +48,14 @@ nav {
 a {
   color: black;
   text-decoration: none;
-  text-decoration-color: white;
+  text-decoration-color: rgb(110, 209, 101);
 }
 
 a:hover {
   color: grey;
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: rgb(77, 204, 83);
 }
 
 .logo {
@@ -97,7 +97,7 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: white;
+  background-color: rgb(57, 184, 53);
   width: fit-content;
   max-height: 0;
   overflow: hidden;
