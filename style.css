@@ -15,11 +15,6 @@ html {
   scroll-behavior: smooth;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 p {
   color: rgb(85, 85, 85);
 }
@@ -371,8 +366,8 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 90%;  /* Ubah ukuran di sini */
-  height: 90%; /* Ubah ukuran di sini */
+  width: 90%;
+  height: 90%;
 }
 
 .project-title {
