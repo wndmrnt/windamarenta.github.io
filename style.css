@@ -370,8 +370,9 @@ article .icon {
 }
 
 .project-img {
-  width: 70%;
-  height: 70%;
+  border-radius: 2rem;
+  width: 90%;  /* Ubah ukuran di sini */
+  height: 90%; /* Ubah ukuran di sini */
 }
 
 .project-title {
